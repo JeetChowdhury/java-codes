@@ -1,0 +1,553 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solid_rohmbos_pyramid",
+            "request": "launch",
+            "mainClass": "Solid_rohmbos_pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Adult_NotAdult_using_ternaryOperator",
+            "request": "launch",
+            "mainClass": "Adult_NotAdult_using_ternaryOperator",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "butterfly_Pattern",
+            "request": "launch",
+            "mainClass": "butterfly_Pattern",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Bottom_inverted_Pyramid",
+            "request": "launch",
+            "mainClass": "Bottom_inverted_Pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Pyramid",
+            "request": "launch",
+            "mainClass": "Binary_Pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_pyramiod",
+            "request": "launch",
+            "mainClass": "Floyd_pyramiod",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "another_inverted_half_pyramid",
+            "request": "launch",
+            "mainClass": "another_inverted_half_pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Inverted_half_Pyramid",
+            "request": "launch",
+            "mainClass": "Inverted_half_Pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "hollow_box",
+            "request": "launch",
+            "mainClass": "hollow_box",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "sum_lettersInNumber",
+            "request": "launch",
+            "mainClass": "sum_lettersInNumber",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_Check",
+            "request": "launch",
+            "mainClass": "Palindrome_Check",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "test_number_EvenOrNot",
+            "request": "launch",
+            "mainClass": "test_number_EvenOrNot",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "average_3_numbers",
+            "request": "launch",
+            "mainClass": "average_3_numbers",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "DecToBin",
+            "request": "launch",
+            "mainClass": "DecToBin",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Bin_to_Dec",
+            "request": "launch",
+            "mainClass": "Bin_to_Dec",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "practice_3",
+            "request": "launch",
+            "mainClass": "practice.practice_3",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "reverse_number_using_function",
+            "request": "launch",
+            "mainClass": "reverse_number_using_function",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "practice.HelloWorld",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "factorial_using_function",
+            "request": "launch",
+            "mainClass": "factorial_using_function",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "isPrime_using_function",
+            "request": "launch",
+            "mainClass": "isPrime_using_function",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "function_overloading_using_datatype",
+            "request": "launch",
+            "mainClass": "function_overloading_using_datatype",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "khosra",
+            "request": "launch",
+            "mainClass": "khosra",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "find_max_num",
+            "request": "launch",
+            "mainClass": "find_max_num",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "ave_25_sc",
+            "request": "launch",
+            "mainClass": "ave_25_sc",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "practice_2",
+            "request": "launch",
+            "mainClass": "practice.practice_2",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "calculator_using_function",
+            "request": "launch",
+            "mainClass": "calculator_using_function",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "function_overloading",
+            "request": "launch",
+            "mainClass": "function_overloading",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "usingproduct_in_function",
+            "request": "launch",
+            "mainClass": "usingproduct_in_function",
+            "projectName": "java codes_188cc18a"
+        },
+        {
+            "type": "java",
+            "name": "Launch function_overloading",
+            "request": "launch",
+            "mainClass": "function_overloading",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch binomial_cofficient",
+            "request": "launch",
+            "mainClass": "binomial_cofficient",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingproduct_in_function",
+            "request": "launch",
+            "mainClass": "usingproduct_in_function",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch call_by_value",
+            "request": "launch",
+            "mainClass": "call_by_value",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch int_call",
+            "request": "launch",
+            "mainClass": "int_call",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch function_call",
+            "request": "launch",
+            "mainClass": "function_call",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_not_prime",
+            "request": "launch",
+            "mainClass": "prime_not_prime",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch continue_1",
+            "request": "launch",
+            "mainClass": "continue_1",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch break_keyword",
+            "request": "launch",
+            "mainClass": "break_keyword",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch square_pattern",
+            "request": "launch",
+            "mainClass": "square_pattern",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch leap_year",
+            "request": "launch",
+            "mainClass": "leap_year",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch week_using_switch",
+            "request": "launch",
+            "mainClass": "week_using_switch",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch feaver",
+            "request": "launch",
+            "mainClass": "feaver",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch_statement",
+            "request": "launch",
+            "mainClass": "Switch_statement",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch pass_fail",
+            "request": "launch",
+            "mainClass": "pass_fail",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch ternary_operator",
+            "request": "launch",
+            "mainClass": "ternary_operator",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Adult_NotAdult",
+            "request": "launch",
+            "mainClass": "Adult_NotAdult",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area_of_Square",
+            "request": "launch",
+            "mainClass": "Area_of_Square",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question_4",
+            "request": "launch",
+            "mainClass": "Question_4",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch area_of_circle",
+            "request": "launch",
+            "mainClass": "area_of_circle",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch ave_25_sc",
+            "request": "launch",
+            "mainClass": "ave_25_sc",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch ave_of_3_num",
+            "request": "launch",
+            "mainClass": "ave_of_3_num",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch even_num",
+            "request": "launch",
+            "mainClass": "even_num",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch find_max_num",
+            "request": "launch",
+            "mainClass": "find_max_num",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch half_pyramid",
+            "request": "launch",
+            "mainClass": "half_pyramid",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch income_tax_calculator",
+            "request": "launch",
+            "mainClass": "income_tax_calculator",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted_star_patterns",
+            "request": "launch",
+            "mainClass": "inverted_star_patterns",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest_of_3_numbers",
+            "request": "launch",
+            "mainClass": "largest_of_3_numbers",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest_two_number",
+            "request": "launch",
+            "mainClass": "largest_two_number",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_of_two_num",
+            "request": "launch",
+            "mainClass": "max_of_two_num",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch multification_table",
+            "request": "launch",
+            "mainClass": "multification_table",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch nothing",
+            "request": "launch",
+            "mainClass": "nothing",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice",
+            "request": "launch",
+            "mainClass": "operators.practice",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch pensil",
+            "request": "launch",
+            "mainClass": "pensil",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch positive_nagative",
+            "request": "launch",
+            "mainClass": "positive_nagative",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice(1)",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice(2)",
+            "request": "launch",
+            "mainClass": "practice.practice",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_1",
+            "request": "launch",
+            "mainClass": "practice.practice_1",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch print_even_num_9_to_10",
+            "request": "launch",
+            "mainClass": "print_even_num_9_to_10",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_number",
+            "request": "launch",
+            "mainClass": "reverse_number",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch star_patterns",
+            "request": "launch",
+            "mainClass": "star_patterns",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_n_of_natural_numbers",
+            "request": "launch",
+            "mainClass": "sum_n_of_natural_numbers",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_even_and_odd",
+            "request": "launch",
+            "mainClass": "sum_of_even_and_odd",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch take_number",
+            "request": "launch",
+            "mainClass": "take_number",
+            "projectName": "java codes_289e8c96"
+        },
+        {
+            "type": "java",
+            "name": "Launch type_promotion",
+            "request": "launch",
+            "mainClass": "type_promotion",
+            "projectName": "java codes_289e8c96"
+        }
+    ]
+}
